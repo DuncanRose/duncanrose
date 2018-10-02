@@ -1,6 +1,4 @@
-# [Maintenance Page Bootstrap Theme](https://jackiedelia.com/) 
-
-[Maintenance Page Bootstrap Theme](https://github.com/jdelia/bootstrap-maintenance-page-theme) is a custom landing page template for [Bootstrap](http://getbootstrap.com/) based on [Landing Page](http://startbootstrap.com/template-overviews/landing-page/) created by [Start Bootstrap](http://startbootstrap.com/).
+# [Maintenance Page Bootstrap Theme](https://jackiedelia.com/)
 
 ## Getting Started
 
@@ -9,17 +7,9 @@ To begin using this template, choose one of the following options to get started
 * Clone the repo: `git clone https://github.com/jdelia/bootstrap-maintenance-page-theme.git`
 * Fork the repo
 
-## See Live Demo page
-
-You can view the [live demo](http://jdelia.github.io/bootstrap-maintenance-page-theme/) here.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/jdelia/bootstrap-maintenance-page-theme/issues) here on GitHub.
-
 ## Creator
 
-This template is based on the work created by [Start Bootstrap](http://startbootstrap.com/) and is maintained by [Jackie D'Elia](https://jackiedelia.com). 
+This template is based on the work created by [Start Bootstrap](http://startbootstrap.com/) and is maintained by [Jackie D'Elia](https://jackiedelia.com).
 
 * https://twitter.com/jdelia
 * https://github.com/jdelia
