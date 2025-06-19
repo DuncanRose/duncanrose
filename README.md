@@ -1,3 +1,3 @@
 # [Duncan Rose](https://duncanrose.com/)
 
-## Product Manager 
+## Senior Product Manager II
