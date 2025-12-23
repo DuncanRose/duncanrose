@@ -2,11 +2,13 @@
 
 Simple domain ownership verification page that redirects to a non-profit website.
 
-## Changing the Redirect Target
+## How It Works
 
-Edit `index.html` and update the URL in two places:
-1. The `content` attribute in the `<meta http-equiv="refresh">` tag
-2. The `href` attribute in the `<a>` tag in the body
+Each visitor is randomly redirected to one of the non-profit organizations listed below. The selection happens client-side using JavaScript.
+
+## Changing the Redirect Options
+
+Edit `index.html` and modify the `nonprofits` array in the JavaScript section. Add or remove URLs from the array to change which organizations visitors can be redirected to.
 
 ## Non-Profit Redirect Options
 
